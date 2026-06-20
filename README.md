@@ -59,6 +59,9 @@ Aplikacja składa się z następujących ekranów:
 - `ProductDetailsScreen` – szczegóły produktu,
 - `SettingsScreen` – statystyki, lokalizacja i wylogowanie.
 
+<img width="1197" height="2604" alt="image" src="https://github.com/user-attachments/assets/09b0ebf2-3225-4be7-aa9b-482506d9a63c" />
+
+
 ## Technologie
 
 Projekt wykorzystuje:
