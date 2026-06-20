@@ -61,10 +61,14 @@ Aplikacja składa się z następujących ekranów:
 
 <img width="200" alt="Image (1)" src="https://github.com/user-attachments/assets/a248d8e7-7395-486c-9cf3-155e5e561dc0" />
 <img width="200" alt="Image (2)" src="https://github.com/user-attachments/assets/4cba169c-af54-411a-a2b4-877d4bab57e9" />
-<img wwidth="200" alt="Image (3)" src="https://github.com/user-attachments/assets/478a3184-8627-419c-986d-723af026c5e1" />
+<img width="200" alt="Image (3)" src="https://github.com/user-attachments/assets/478a3184-8627-419c-986d-723af026c5e1" />
 <img width="200" alt="Image (4)" src="https://github.com/user-attachments/assets/bcff2003-b103-45db-992e-6442579b6edb" />
 <img width="200" alt="Image (5)" src="https://github.com/user-attachments/assets/b072981a-d39f-4ffc-bb49-79594e9a5164" />
 
+<img width="240" alt="MicrosoftTeams-video3-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8571fa27-2ace-448b-b85c-4af7be28aa24" />
+
+<img width="240" alt="MicrosoftTeams-video-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/e738f582-2f44-488a-85ad-9387de55eb5e" />
+<img width="240" alt="MicrosoftTeams-video2-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9353e9a5-63fd-4119-96d2-fd6005648af0" />
 
 
 ## Technologie
