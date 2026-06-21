@@ -240,19 +240,6 @@ Kod został podzielony na ekrany, kontekst oraz funkcje pomocnicze. Zastosowano 
 
 Ze względu na środowisko Expo Snack nie dodano pełnej konfiguracji ESLint i Prettier, ale kod został przygotowany zgodnie z konwencjami React Native i JavaScript.
 
-## Screenshoty aplikacji
-
-W tym miejscu można dodać zrzuty ekranu z aplikacji:
-
-```md
-![Ekran logowania](./screenshots/login.png)
-![Lista zakupów](./screenshots/home.png)
-![Dodawanie produktu](./screenshots/add-product.png)
-![Szczegóły produktu](./screenshots/details.png)
-![Ustawienia](./screenshots/settings.png)
-```
-
-W przypadku projektu w Expo Snack screenshoty można dodać bezpośrednio do repozytorium GitHub w folderze `screenshots`.
 
 ## Instrukcja uruchomienia
 
